@@ -9,5 +9,6 @@ public class Main {
         Data data = new Data(in);
         data.print(0);
         Data1 data1 = new Data1();
+        Data2 data2 = new Data2();
     }
 }
