@@ -8,5 +8,6 @@ public class Main {
         Scanner in = new Scanner(System.in);
         Data data = new Data(in);
         data.print(0);
+        Data1 data1 = new Data1();
     }
 }
